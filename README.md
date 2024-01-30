@@ -6,10 +6,10 @@
 
 |  | beginner | intermediate | expert |
 | ----------- | ----------- | ----------- | ----------- |
-| HTML |  |  | X |
-| CSS |  | X |  |
-| JS |  | X |  |
-| React | X |  |  |
+| HTML |  |  | **X** |
+| CSS |  | **X** |  |
+| JS |  | **X** |  |
+| react | **X** |  |  |
 
  - hobbies: cycling 🚴, reading 📖, board games 🎲
  - looking for interesting people 💬 and a first WebDev job
