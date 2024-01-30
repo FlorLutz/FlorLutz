@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my Profile! 👋
+
+## Current status: in SPICED Academy WebDev Boot Camp
+
+## Learning:
+ - HTML ![JS](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg)
+ - CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png)
+ - Javascript ![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png)
+ - React ![react](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/180px-React_Logo_SVG.svg.png)
 
 <!--
 **FlorLutz/FlorLutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
