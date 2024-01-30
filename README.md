@@ -1,12 +1,20 @@
 ### Welcome to my Profile! 👋
 
-## Current status: in SPICED Academy WebDev Boot Camp
+ - Current status: in SPICED Academy WebDev Boot Camp 💻
 
-## Learning:
- - HTML ![HTML](https://static.vecteezy.com/system/resources/thumbnails/001/416/705/small_2x/html5-emblem-orange-shield-and-white-text-vector.jpg)
- - CSS ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png)
- - Javascript ![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png)
- - React ![react](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/180px-React_Logo_SVG.svg.png)
+ - Skills 💪
+
+|  | beginner | intermediate | expert |
+| ----------- | ----------- | ----------- | ----------- |
+| HTML |  |  | X |
+| CSS |  | X |  |
+| JS |  | X |  |
+| React | X |  |  |
+
+ - hobbies: cycling 🚴, reading 📖, board games 🎲
+ - looking for interesting people 💬 and a first WebDev job
+
+![sicily](sicilia.jpg)
 
 <!--
 **FlorLutz/FlorLutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
