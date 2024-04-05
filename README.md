@@ -6,13 +6,16 @@
 
 |  | beginner | intermediate | expert |
 | ----------- | ----------- | ----------- | ----------- |
-| HTML |  |  | **X** |
+| NextJS |  | **X** |  |
+| react |  | **X** |  |
+| JavaScript |  | **X** |  |
+| TypeScript | **X** |  |  |
 | CSS |  | **X** |  |
-| JS |  | **X** |  |
-| react | **X** |  |  |
+| Tailwind | **X** |  |  |
+| HTML |  |  | **X** |
 
  - hobbies: cycling 🚴, reading 📖, board games 🎲
- - looking for interesting people 💬 and a first WebDev job
+ - looking for interesting people 💬 and my first WebDev job to continue this exciting forniture
 
 ![sicily](sicilia.jpg)
 
