@@ -1,6 +1,8 @@
 ### Welcome to my Profile! 👋
 
- - Current status: in SPICED Academy WebDev Boot Camp 💻
+- Full-Stack Web Developer based in Berlin, Germany
+
+ - Current status: open to work, studying React Native and App Router after having graduated from SPICED Academy WebDev Boot Camp end of April 2024 💻
 
  - Skills 💪
 
@@ -9,13 +11,14 @@
 | NextJS |  | **X** |  |
 | react |  | **X** |  |
 | JavaScript |  | **X** |  |
-| TypeScript | **X** |  |  |
-| CSS |  | **X** |  |
-| Tailwind | **X** |  |  |
+| TypeScript |  | **X** |  |
+| React Native | **X** |  |  |
+| CSS |  |  | **X** |
+| Tailwind |  | **X** |  |
 | HTML |  |  | **X** |
 
- - hobbies: cycling 🚴, reading 📖, board games 🎲
- - looking for interesting people 💬 and my first WebDev job to continue this exciting forniture
+ - hobbies: cycling 🚴, reading 📖, board games 🎲, MPB 🎶
+ - looking for interesting people 💬 and a WebDev job to continue this exciting forniture
 
 ![sicily](sicilia.jpg)
 
