@@ -18,7 +18,7 @@
 | HTML |  |  | **X** |
 
  - hobbies: cycling 🚴, reading 📖, board games 🎲, MPB 🎶
- - looking for interesting people 💬 and a WebDev job to continue this exciting forniture
+ - looking for interesting people 💬 and a WebDev job to continue this exciting journey
 
 ![sicily](sicilia.jpg)
 
