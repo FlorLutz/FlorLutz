@@ -9,12 +9,14 @@
 |  | beginner | intermediate | expert |
 | ----------- | ----------- | ----------- | ----------- |
 | NextJS |  | **X** |  |
-| react |  | **X** |  |
-| JavaScript |  | **X** |  |
+| ReactJS |  | **X** |  |
+| JavaScript |  |  | **X** |
 | TypeScript |  | **X** |  |
+| MongoDB |  | **X** |  |
+| mongoose |  | **X** |  |
 | React Native | **X** |  |  |
 | CSS |  |  | **X** |
-| Tailwind |  | **X** |  |
+| Tailwind |  |  | **X** |
 | HTML |  |  | **X** |
 
  - hobbies: cycling 🚴, reading 📖, board games 🎲, MPB 🎶
